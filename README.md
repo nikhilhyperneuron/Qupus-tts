@@ -21,3 +21,5 @@ Current status:
       2- Trained on Assamese
       3- Trained on Punjabi
       Basic Aligned was done through libre-tts
+### Licence:
+        CC-BY-NC-2.0
